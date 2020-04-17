@@ -16,4 +16,5 @@ sample
 shuffleNet_77dump
 trainval.csv
 yarn.lock
+.ipynb_checkpoints
 train.ipynb
